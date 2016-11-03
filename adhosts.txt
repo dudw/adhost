@@ -1,0 +1,2 @@
+## ad host list
+127.0.0.1 imgms.69shu.com
